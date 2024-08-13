@@ -1,1 +1,1 @@
-# sistema-de-registro
+# actualiza el cmd
